@@ -1,0 +1,1 @@
+Here we provide the main code "ncoord.m" for the generation of a 2D riverbed in Matlab. Perlin2D is a function called in the main code to generate Perlin noise. datiMera is initial dataset.
